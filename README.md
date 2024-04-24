@@ -15,13 +15,13 @@
 
 - 👨‍💻 All of my projects are available at [https://rajveer-09.github.io/Portfolio-Rajveer-CSE-26/](https://rajveer-09.github.io/Portfolio-Rajveer-CSE-26/) .
 
-- 💬 Ask me about **react and DSA.**
+- 💬 Ask me about **react and DSA** .
 
-- 📫 How to reach me **rajveersharma1107@gmail.com**
+- 📫 How to reach me **rajveersharma1107@gmail.com** .
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZJCcX_UCEsHqZ-2nlA0OqfeUmppQLyQR/view?usp=sharing](https://drive.google.com/file/d/1ZJCcX_UCEsHqZ-2nlA0OqfeUmppQLyQR/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ZJCcX_UCEsHqZ-2nlA0OqfeUmppQLyQR/view?usp=sharing](https://drive.google.com/file/d/1ZJCcX_UCEsHqZ-2nlA0OqfeUmppQLyQR/view?usp=sharing) .
 
-- ⚡ Fun fact **I am Funny😉**
+- ⚡ Fun fact **I am Funny😉.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
