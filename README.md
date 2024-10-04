@@ -46,14 +46,16 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajveer-09&show_icons=true&locale=en" alt="rajveer-09" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajveer-09&" alt="rajveer-09" /></p>
 
-<img align="center" alt="coding" width="400" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif">
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=rajveer-09&theme=dracula" alt="GitHub Streak" />
+  </a>
+</p>
 
-<center>
-    <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=rajveer-09&theme=dracula" alt="GitHub Streak" />
-    </a>
-</center>
+## GitHub Contribution Snake
 
+![GitHub Contribution Snake](https://github.com/rajveer-09/rajveer-09/blob/output/github-contribution-grid-snake.svg)
+
+![Snake animation](https://raw.githubusercontent.com/{username}/{username}/output/github-contribution-grid-snake-dark.svg)
 
