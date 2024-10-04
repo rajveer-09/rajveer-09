@@ -55,7 +55,6 @@
 
 ## GitHub Contribution Snake
 
-![GitHub Contribution Snake](https://github.com/rajveer-09/rajveer-09/blob/output/github-contribution-grid-snake.svg)
 
-![Snake animation](https://raw.githubusercontent.com/{username}/{username}/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/{rajveer-09}/{rajveer-09}/output/github-contribution-grid-snake-dark.svg)
 
