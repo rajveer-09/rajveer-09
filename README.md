@@ -1,4 +1,4 @@
-![loho](https://github.com/rajveer-09/rajveer-09/blob/main/bg_img.png)
+![loho](https://github.com/rajveer-09/rajveer-09/blob/main/Github%20Banner2.png)
 <h1 align="center">Hi 👋, I'm Rajveer Sharma</h1>
 <h3 align="center">A 3rd Year Computer Science Engineering Student.</h3>
 
