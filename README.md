@@ -58,3 +58,40 @@
   </a>
 </p>
 
+<h2 align="center">My Certificates [6] 🏅</h2>
+
+<div align="left">
+
+<details>
+<summary>⚡ Code36 DSA Certificates [3]</summary>
+
+- [DSA 1](https://drive.google.com/drive/u/0/folders/19AC-T6qgFjVZted81gKx5GyWwISFTJrN)
+- [DSA 2](https://drive.google.com/drive/u/0/folders/19AC-T6qgFjVZted81gKx5GyWwISFTJrN)
+- [NINJA SLAYGROUND 2.0](https://drive.google.com/drive/u/0/folders/19AC-T6qgFjVZted81gKx5GyWwISFTJrN)
+
+<!-- Add more links here -->
+
+</details>
+
+<details>
+<summary>⚡ GEN AI Certificate [1] </summary>
+
+- [Nxt WAVE](https://drive.google.com/drive/u/0/folders/19AC-T6qgFjVZted81gKx5GyWwISFTJrN)
+
+</details>
+
+<details>
+<summary>⚡ CodeKaze 2024 [1] </summary>
+
+- [Certificate](https://drive.google.com/drive/u/0/folders/19AC-T6qgFjVZted81gKx5GyWwISFTJrN)
+
+</details>
+
+<details>
+<summary>⚡ Meta HackerCup [1]</summary>
+
+- [Certificate](https://drive.google.com/drive/u/0/folders/19AC-T6qgFjVZted81gKx5GyWwISFTJrN)
+
+</details>
+
+</div>
