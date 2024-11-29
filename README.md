@@ -65,9 +65,9 @@
 <details>
 <summary>⚡ Code36 DSA Certificates [3]</summary>
 
-- [DSA 1](https://drive.google.com/drive/u/0/folders/19AC-T6qgFjVZted81gKx5GyWwISFTJrN)
-- [DSA 2](https://drive.google.com/drive/u/0/folders/19AC-T6qgFjVZted81gKx5GyWwISFTJrN)
-- [NINJA SLAYGROUND 2.0](https://drive.google.com/drive/u/0/folders/19AC-T6qgFjVZted81gKx5GyWwISFTJrN)
+- [DSA 1](https://drive.google.com/file/d/11phfX1ErNv6LBA7UAgaaNXzQJ3OriyU6/view)
+- [DSA 2](https://drive.google.com/file/d/1LpNcbrLHldxSrxyXBXDJo6U78oYsTrG2/view?usp=sharing)
+- [NINJA SLAYGROUND 2.0](https://drive.google.com/file/d/1uQTmZjb0maK8dI7fYWdy94N4ZstOCSVP/view?usp=sharing)
 
 <!-- Add more links here -->
 
@@ -76,21 +76,21 @@
 <details>
 <summary>⚡ GEN AI Certificate [1] </summary>
 
-- [Nxt WAVE](https://drive.google.com/drive/u/0/folders/19AC-T6qgFjVZted81gKx5GyWwISFTJrN)
+- [Nxt WAVE](https://drive.google.com/file/d/1J-3zmPlIA_XKgGJY-yeydECv1KcK97no/view?usp=sharing)
 
 </details>
 
 <details>
 <summary>⚡ CodeKaze 2024 [1] </summary>
 
-- [Certificate](https://drive.google.com/drive/u/0/folders/19AC-T6qgFjVZted81gKx5GyWwISFTJrN)
+- [Certificate](https://drive.google.com/file/d/1vrU5BKv3qzQbWtKnkK4cIFLoc6dwQJ2a/view?usp=sharing)
 
 </details>
 
 <details>
 <summary>⚡ Meta HackerCup [1]</summary>
 
-- [Certificate](https://drive.google.com/drive/u/0/folders/19AC-T6qgFjVZted81gKx5GyWwISFTJrN)
+- [Certificate](https://drive.google.com/file/d/16tYWuMitfQQPzbTLxiIlKj8UXxW33RyY/view?usp=sharing)
 
 </details>
 
