@@ -119,21 +119,22 @@
       <td align="center"><a href="https://dev.to/rajveer-09" target="_blank"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=dev.to&svgfill=white"></a></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://www.linkedin.com/in/rajveer-09/" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/linked(color).png" alt="LinkedIn" width="55" /></a></td>
-      <td align="center"><a href="https://wa.me/919648059566" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/whatsapp(color).png" alt="WhatsApp" width="55" /></a></td>
-      <td align="center"><a href="https://t.me/enigmasphinx09" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/telegram(color).png" alt="Telegram" width="55" /></a></td>
-      <td align="center"><a href="https://www.facebook.com/rajveer-09/" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/facebook%20(color).png" alt="Facebook" width="55" /></a></td>
-      <td align="center"><a href="https://www.instagram.com/rajveer__sharma09" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/Instagram%20(color).svg" alt="Instagram" width="55" /></a></a></td>
-      <td align="center"><a href="https://x.com/rajveer__09" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/twitter(color).png" alt="Twitter" width="55" /></a></td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://www.linkedin.com/in/rajveer-09/"><img src="https://readme-components.vercel.app/api?component=logo&fill=0e76a8&logo=linkedin&svgfill=white"></a></td>
-      <td align="center"><a href="https://wa.me/919648059566"><img src="https://readme-components.vercel.app/api?component=logo&fill=25D366&logo=whatsapp&svgfill=white"></a></td>
-      <td align="center"><a href="https://t.me/enigmasphinx09"><img src="https://readme-components.vercel.app/api?component=logo&fill=1ca0f1&logo=telegram&svgfill=white"></a></td>
-      <td align="center"><a href="https://www.facebook.com/rajveer-09"><img src="https://readme-components.vercel.app/api?component=logo&fill=4267B2&logo=facebook&svgfill=white"></a></td>
-      <td align="center"><a href="https://www.instagram.com/rajveer__sharma09"><img src="https://readme-components.vercel.app/api?component=logo&fill=E1306C&logo=instagram&svgfill=white"></a></td>
-      <td align="center"><a href="https://x.com/rajveer__09"><img src="https://readme-components.vercel.app/api?component=logo&fill=1DA1F2&logo=twitter&svgfill=white"></a></td>
-    </tr>
+  <td align="center"><a href="https://www.linkedin.com/in/rajveer-sharma-5a72b1258/" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/linked(color).png" alt="LinkedIn" width="55" /></a></td>
+  <td align="center"><a href="https://wa.me/919648059566" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/whatsapp(color).png" alt="WhatsApp" width="55" /></a></td>
+  <td align="center"><a href="https://t.me/enigmasphinx09" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/telegram(color).png" alt="Telegram" width="55" /></a></td>
+  <td align="center"><a href="https://www.facebook.com/profile.php?id=61566749703593" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/facebook%20(color).png" alt="Facebook" width="55" /></a></td>
+  <td align="center"><a href="https://www.instagram.com/rajveer__sharma09" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/Instagram%20(color).svg" alt="Instagram" width="55" /></a></td>
+  <td align="center"><a href="https://x.com/rajveer__09" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/twitter(color).png" alt="Twitter" width="55" /></a></td>
+</tr>
+<tr>
+  <td align="center"><a href="https://www.linkedin.com/in/rajveer-sharma-5a72b1258/"><img src="https://readme-components.vercel.app/api?component=logo&fill=0e76a8&logo=linkedin&svgfill=white"></a></td>
+  <td align="center"><a href="https://wa.me/919648059566"><img src="https://readme-components.vercel.app/api?component=logo&fill=25D366&logo=whatsapp&svgfill=white"></a></td>
+  <td align="center"><a href="https://t.me/enigmasphinx09"><img src="https://readme-components.vercel.app/api?component=logo&fill=1ca0f1&logo=telegram&svgfill=white"></a></td>
+  <td align="center"><a href="https://www.facebook.com/profile.php?id=61566749703593"><img src="https://readme-components.vercel.app/api?component=logo&fill=4267B2&logo=facebook&svgfill=white"></a></td>
+  <td align="center"><a href="https://www.instagram.com/rajveer__sharma09"><img src="https://readme-components.vercel.app/api?component=logo&fill=E1306C&logo=instagram&svgfill=white"></a></td>
+  <td align="center"><a href="https://x.com/rajveer__09"><img src="https://readme-components.vercel.app/api?component=logo&fill=1DA1F2&logo=twitter&svgfill=white"></a></td>
+</tr>
+
   </table>
 </details>
 
