@@ -1,6 +1,6 @@
 ![loho](https://github.com/rajveer-09/rajveer-09/blob/main/bgc_img_main.png)
 <h1 align="center">Hi 👋, I'm Rajveer Sharma</h1>
-<h3 align="center">A 3rd Year Computer Science Engineering Student.</h3>
+<h3 align="center">A Pre - Final Year Computer Science Engineering Student.</h3>
 
 [![An image of @rajveer09's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rajveer09)](https://holopin.io/@rajveer09)
 
@@ -16,13 +16,13 @@
 
 - 👯 I’m looking to collaborate on [My Portfolio](https://rajveer-09.github.io/Portfolio-Rajveer-CSE-26/).
 
-- 👨‍💻 All of my projects are available at [https://rajveer-09.github.io/Portfolio-Rajveer-CSE-26/](https://rajveer-09.github.io/Portfolio-Rajveer-CSE-26/) .
+- 👨‍💻 All of my projects are available at [GITHUB](https://github.com/rajveer-09) .
 
 - 💬 Ask me about **react and DSA** .
 
 - 📫 How to reach me **rajveersharma1107@gmail.com** .
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZJCcX_UCEsHqZ-2nlA0OqfeUmppQLyQR/view?usp=sharing](https://drive.google.com/file/d/1ZJCcX_UCEsHqZ-2nlA0OqfeUmppQLyQR/view?usp=sharing) .
+- 📄 Know about my experiences [CLICK HERE](https://github.com/rajveer-09) .
 
 - ⚡ Did you know? **I have a great sense of humor!** 😉
 
