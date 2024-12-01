@@ -34,16 +34,27 @@
 [![](https://visitcount.itsvg.in/api?id=rajveer-09&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
-<h2 align="center">My Certificates [6] 🏅</h2>
+<h2 align="center">My Certificates [10] 🏅</h2>
 
 <div align="left">
 
 <details>
-<summary>⚡ Code36 DSA Certificates [3]</summary>
+<summary>⚡ Code360 DSA Certificates [3]</summary>
 
 - [DSA 1](https://drive.google.com/file/d/11phfX1ErNv6LBA7UAgaaNXzQJ3OriyU6/view)
 - [DSA 2](https://drive.google.com/file/d/1LpNcbrLHldxSrxyXBXDJo6U78oYsTrG2/view?usp=sharing)
 - [NINJA SLAYGROUND 2.0](https://drive.google.com/file/d/1uQTmZjb0maK8dI7fYWdy94N4ZstOCSVP/view?usp=sharing)
+
+<!-- Add more links here -->
+
+</details>
+<details>
+<summary>⚡ Code360 Certificates [4]</summary>
+
+- [BlockChain](https://drive.google.com/file/d/1958Cnj8iZy4T15uIMnB3Yrmw8asM6eC6/view?usp=sharing)
+- [ChatGpt](https://drive.google.com/file/d/1XUmGO0QvsGWP9EqGgXRpWsEBCFG02nUN/view?usp=sharing)
+- [Data Science](https://drive.google.com/file/d/1Jq1zYpR1l4j12nQyY2GjXH0k362qvKmz/view?usp=sharing)
+- [Python](https://drive.google.com/file/d/1Jq1zYpR1l4j12nQyY2GjXH0k362qvKmz/view?usp=sharing)
 
 <!-- Add more links here -->
 
@@ -68,12 +79,6 @@
 <summary>⚡ Meta HackerCup [1]</summary>
 
 - [Certificate](https://drive.google.com/file/d/16tYWuMitfQQPzbTLxiIlKj8UXxW33RyY/view?usp=sharing)
-
-</details>
-<details>
-<summary>⚡ Code360 DATA Science [1]</summary>
-
-- [Certificate](https://ninjasfiles.s3.amazonaws.com/certificate-667924-8327de20d0946172d42a68c0e855bab4.pdf)
 
 </details>
 
