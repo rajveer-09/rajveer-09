@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/rajveer__09" target="blank"><img src="https://img.shields.io/twitter/follow/rajveer__09?logo=twitter&style=for-the-badge" alt="rajveer__09" /></a> </p>
 
-- 🔭 I’m currently working on [My Portfolio](https://rajveer-09.github.io/Portfolio-Rajveer-CSE-26/) .
+- 🔭 I’m currently working on [My Portfolio](#) .
 
 - 🌱 I’m currently learning **React Js and Node Js.**
 
-- 👯 I’m looking to collaborate on [My Portfolio](https://rajveer-09.github.io/Portfolio-Rajveer-CSE-26/).
+- 👯 I’m looking to collaborate on [My Portfolio](#).
 
 - 👨‍💻 All of my projects are available at [GITHUB](https://github.com/rajveer-09) .
 
@@ -144,9 +144,9 @@
 <a href="https://linkedin.com/in/rajveer-sharma933" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajveer-sharma933" height="30" width="40" /></a>
 <a href="https://instagram.com/rajveer__sharma09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajveer__sharma09" height="30" width="40" /></a>
 <a href="https://medium.com/@rajveersharma1107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rajveersharma1107" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/the_beast933" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="the_beast933" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/rajveersharma1107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rajveersharma1107" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/enigmasphynx09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="enigmasphynx09" height="30" width="40" /></a>
+<a href="#__________CODECHEF" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="the_beast933" height="30" width="40" /></a> 
+<a href="#__________CODEFORCES" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rajveersharma1107" height="30" width="40" /></a>
+<a href="#__________LEETCODE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="enigmasphynx09" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/enigmasphinx09/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<enigmasphinx09>/profile" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discordapp.com/users/enigmasphinx09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/enigmasphinx09" height="30" width="40" /></a>
 </p>
