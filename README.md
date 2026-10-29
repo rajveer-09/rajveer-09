@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **rajveersharma1107@gmail.com** .
 
-- 📄 Know about my experiences [CLICK HERE](https://github.com/rajveer-09) .
+- 📄 Know about my experiences [CLICK HERE](https://www.linkedin.com/in/rajveer-sharma933/) .
 
 - ⚡ Did you know? **I have a great sense of humor!** 😉
 
